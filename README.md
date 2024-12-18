@@ -66,7 +66,7 @@ A customizable OTP (One-Time Password) generator built with React, Vite, TypeScr
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/otp-generator.git
+    git clone https://github.com/vivekhegde2000/otp-generator.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -83,7 +83,7 @@ A customizable OTP (One-Time Password) generator built with React, Vite, TypeScr
     ```sh
     npm run dev
     ```
-2. Open your browser and visit `http://localhost:3000` to see the OTP generator in action.
+2. Open your browser and visit `http://localhost:5173` to see the OTP generator in action.
 
 ## Deployment
 
@@ -116,8 +116,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [your-email@example.com].
+If you have any questions or feedback, please feel free to contact me at [vivekhegdehalasarige@gmail.com].
 
 ---
-
-Feel free to customize this README file to better match the specifics of your project. If there's anything else you need, just let me know! 😊
