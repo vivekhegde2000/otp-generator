@@ -85,19 +85,6 @@ A customizable OTP (One-Time Password) generator built with React, Vite, TypeScr
     ```
 2. Open your browser and visit `http://localhost:5173` to see the OTP generator in action.
 
-## Deployment
-
-To deploy the app on GitHub Pages:
-
-1. Build the project:
-    ```sh
-    npm run build
-    ```
-2. Deploy to GitHub Pages:
-    ```sh
-    npm run deploy
-    ```
-
 ## License
 
 This project is licensed under the MIT License.
