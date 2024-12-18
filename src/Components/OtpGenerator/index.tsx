@@ -62,7 +62,7 @@ const OtpGenerator: React.FC = () => {
       <h1 className="text-center text-3xl font-bold mt-10 text-black">
         OTP Generator
       </h1>
-      <div className="w-[60%] mx-auto mt-10 p-8 border rounded-2xl shadow-lg bg-white">
+      <div className="sm:w-[90%] md:w-[85%] lg:w-[60%] mx-auto mt-10 p-8 border rounded-2xl shadow-lg bg-white">
         <Tab
           tabs={[
             { label: "4 Digit OTP", value: "four" },
